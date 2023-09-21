@@ -1,3 +1,3 @@
 # Giraffe
 Giraffes are wonderous mysteries of the world.
-theme: minimal
+remote_theme: minimal
